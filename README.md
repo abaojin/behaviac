@@ -14,6 +14,16 @@
  - 您可以加入我们的QQ群433547396获得即时的帮助或者信息反馈。请大家优先使用[behaviac Q&A](http://bbs.behaviac.com/)。
  - BehaviacSetup*.exe是安装包，内含可执行的编辑器及示例。如需要自行构建，需要去[官方网站](http://www.behaviac.com/)或[github behaviac](https://github.com/Tencent/behaviac)下载或克隆源码，然后可以访问[build](http://www.behaviac.com/docs/zh/articles/build/)获取构建帮助
  
+ ## 结构
+ 
+ 主要包含五部分：
+ 
+ -构建导出build
+ -文档目录docs
+ -编辑器editor
+ -插件运行时库-包含csharp和cpp两种语言
+ -教程目录tutorials
+ 
 
 ---------------------------------------------
 ##[Visist http://www.behaviac.com/ for documents, tutorials, FAQs and all other information](http://www.behaviac.com/)
